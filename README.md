@@ -2,6 +2,7 @@
 
 ## Overview
 This project presents an interactive Power BI dashboard analyzing Blinkit retail sales data. It focuses on delivering insights through visual storytelling and business-driven metrics.
+
 ![Dashboard](images/dashboard1.png)
 
 ---
