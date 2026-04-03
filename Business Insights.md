@@ -10,7 +10,7 @@ The dashboard highlights key patterns in product performance, outlet efficiency,
 - Product demand is category-driven rather than visibility-driven  
 - Low-performing categories require strategic improvement
 
-![Dashboard](/images/dashboard1.PNG)
+![Dashboard](/images/dashboard3.PNG)
 ---
 
 ## Outlet Insights
@@ -26,7 +26,7 @@ The dashboard highlights key patterns in product performance, outlet efficiency,
 - No strong growth trend indicates consistent demand  
 - YoY growth varies, showing both positive and negative periods
   
-![Dashboard](/images/dashboard3.PNG)
+![Dashboard](/images/dashboard1.PNG)
 ---
 
 ## Business Impact
